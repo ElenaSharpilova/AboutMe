@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Elena Sharpilova!</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, I am Elena!
+        \n\nI am a Kundalini Yoga teacher. I have been doing yoga for 11 years and teaching for 7 years.
+        Yoga for me is more than a profession and a hobby. She became a part of me, my life.
+        \n\nBy education, I am a manager of an organization in the field of tourism, and also a physical education teacher.
+        \n\n I love reading, I prefer classical literature. My favorite writers are V. Hugo, A. Dyuma, M. Dostoevsky, G. Hesse.
+        And from modern writers I like to read D. Rubina, G. Yakhina, E. Gilbert.
+        \n\n For a year now I have been fond of mobile development. This is a very exciting activity for me. Difficult, but insanely interesting.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
